@@ -1,5 +1,7 @@
+#  Visitor Management System (VMS)
+=============================
 
-![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/48cbde67eb66b619eb7d49ed225c35694c86ccd0/Screenshot%202025-12-24%20191620.png)
+![VMS Login](https://raw.githubusercontent.com/johndydyyy/Visitor-Management-System/main/Screenshot%202025-12-24%20191634.png)
 
 A modern, user-friendly desktop application for managing visitors, built with Python and Tkinter.
 
@@ -53,9 +55,12 @@ Troubleshooting
 - Make sure you have write permissions in the application directory.
 - The application requires a display to run (it's a GUI application).
 
-![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/main/Screenshot%202025-12-24%20191634.png)
-![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/main/Screenshot%202025-12-24%20191652.png)
-![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/main/Screenshot%202025-12-24%20191704.png)
+![VMS Dashboard](https://raw.githubusercontent.com/johndydyyy/Visitor-Management-System/main/Screenshot%202025-12-24%20191620.png)
+
+![VMS Visitor List](https://raw.githubusercontent.com/johndydyyy/Visitor-Management-System/main/Screenshot%202025-12-24%20191652.png)
+
+![VMS Reports](https://raw.githubusercontent.com/johndydyyy/Visitor-Management-System/main/Screenshot%202025-12-24%20191704.png)
+
 
 
 
