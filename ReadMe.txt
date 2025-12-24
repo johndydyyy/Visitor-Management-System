@@ -2,7 +2,7 @@
 =============================
 This Visitor Management System (VMS) is a lightweight, local-first desktop solution designed to streamline how organizations track guests, contractors, and clients. By leveraging Python’s Tkinter for the interface and SQLite for data storage, it offers a professional "plug-and-play" experience without the need for complex server configurations.
 
-![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/e6a6e89eb4b8dee96441472a9060f44519cb2796/Screenshot%202025-12-24%20191620.png)
+![Image]https://github.com/johndydyyy/Visitor-Management-System/blob/main/Screenshot%202025-12-24%20191620.png)
 
 A modern, user-friendly desktop application for managing visitors, built with Python and Tkinter.
 
@@ -56,9 +56,9 @@ Troubleshooting
 - Make sure you have write permissions in the application directory.
 - The application requires a display to run (it's a GUI application).
 
-![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/e6a6e89eb4b8dee96441472a9060f44519cb2796/Screenshot%202025-12-24%20191634.png)
-![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/e6a6e89eb4b8dee96441472a9060f44519cb2796/Screenshot%202025-12-24%20191652.png)
-![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/e6a6e89eb4b8dee96441472a9060f44519cb2796/Screenshot%202025-12-24%20191704.png)
+![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/main/Screenshot%202025-12-24%20191634.png)
+![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/main/Screenshot%202025-12-24%20191652.png)
+![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/main/Screenshot%202025-12-24%20191704.png)
 
 
 
