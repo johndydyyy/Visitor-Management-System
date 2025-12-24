@@ -17,15 +17,15 @@ A modern, user-friendly desktop application designed to streamline visitor track
 ##  Getting Started
 
 ### Prerequisites
-- **Python 3.6 or higher**
-- **Tkinter** (usually bundled with Python)
-- **SQLite3** (standard Python library)
+* **Python 3.6 or higher**
+* **Tkinter** (usually bundled with Python)
+* **SQLite3** (standard Python library)
 
 ### Installation
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/johndydyyy/Visitor-Management-System.git](https://github.com/johndydyyy/Visitor-Management-System.git)
-   cd Visitor-Management-System
+   * **bash
+   * **git clone [https://github.com/johndydyyy/Visitor-Management-System.git](https://github.com/johndydyyy/Visitor-Management-System.git)
+   * **cd Visitor-Management-System
 2. Verify Dependencies:Run the following command to ensure your environment is ready:Bashpython -c "import tkinter; import sqlite3; import datetime; import hashlib; print('All required modules are installed!')"
 3. Running the AppExecute the main application script:Bashpython vms_app.py
 4. Default CredentialsFieldValueUsernameadminPasswordadmin123Note: For security, please change the default password immediately after your first login.
