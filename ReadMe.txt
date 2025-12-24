@@ -1,6 +1,6 @@
 #  Visitor Management System (VMS)
 
-![VMS Dashboard](https://github.com/johndydyyy/Visitor-Management-System/blob/main/login.png)
+!(https://github.com/johndydyyy/Visitor-Management-System/blob/main/login.png)
 
 A modern, user-friendly desktop application designed to streamline visitor tracking. Built with **Python** and **Tkinter**, this system offers a professional "plug-and-play" experience for managing guests, contractors, and clients without the need for complex server configurations.
 
