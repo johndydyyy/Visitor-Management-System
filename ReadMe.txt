@@ -1,6 +1,3 @@
-# Visitor Management System (VMS)
-=============================
-This Visitor Management System (VMS) is a lightweight, local-first desktop solution designed to streamline how organizations track guests, contractors, and clients. By leveraging Python’s Tkinter for the interface and SQLite for data storage, it offers a professional "plug-and-play" experience without the need for complex server configurations.
 
 ![Image](https://github.com/johndydyyy/Visitor-Management-System/blob/48cbde67eb66b619eb7d49ed225c35694c86ccd0/Screenshot%202025-12-24%20191620.png)
 
