@@ -1,67 +1,33 @@
 #  Visitor Management System (VMS)
-=============================
 
-![VMS Login](https://raw.githubusercontent.com/johndydyyy/Visitor-Management-System/main/Screenshot%202025-12-24%20191634.png)
+![VMS Dashboard](https://github.com/johndydyyy/Visitor-Management-System/blob/main/login.png)
 
-A modern, user-friendly desktop application for managing visitors, built with Python and Tkinter.
+A modern, user-friendly desktop application designed to streamline visitor tracking. Built with **Python** and **Tkinter**, this system offers a professional "plug-and-play" experience for managing guests, contractors, and clients without the need for complex server configurations.
 
-Prerequisites
-------------
-- Python 3.6 or higher
-- Tkinter (usually comes with Python)
-- SQLite3 (included in Python standard library)
+---
 
-Installation
-------------
-1. Make sure you have Python installed on your system.
-2. Verify the required Python modules are installed by running:
-   ```
-   python -c "import tkinter; import sqlite3; import datetime; import hashlib; print('All required modules are installed!')"
-   ```
-   If you see any errors, install the missing packages using pip.
+##  Features
 
-Running the Application
-----------------------
-1. Open a terminal/command prompt
-2. Navigate to the directory containing vms_app.py
-3. Run the application with Python:
-   ```
-   python vms_app.py
-   ```
+* **Secure Authentication:** Built-in login system using `hashlib` for secure credential handling.
+* **Full CRUD Operations:** Add, view, edit, and delete visitor records with ease.
+* **Modern UI:** A sleek, responsive dark-themed interface designed for low eye strain during long shifts.
+* **Data Persistence:** Uses **SQLite3**, creating a local `vms.db` file automatically—no database setup required.
+* **Reporting:** Built-in statistics and reporting tools to track visitor traffic and patterns.
 
-Features
---------
-- User authentication
-- Add, edit, and delete visitor records
-- View visitor statistics and reports
-- Modern, responsive UI with dark theme
-- Data persistence using SQLite database
+---
 
-Default Login Credentials
------------------------
-- Username: admin
-- Password: admin123
+##  Getting Started
 
-Note: Please change the default password after first login for security.
+### Prerequisites
+- **Python 3.6 or higher**
+- **Tkinter** (usually bundled with Python)
+- **SQLite3** (standard Python library)
 
-Database
---------
-- The application uses SQLite and will automatically create a 'vms.db' file in the same directory.
-- No additional database setup is required.
-
-Troubleshooting
---------------
-- If you encounter any issues, ensure all required Python modules are installed.
-- Make sure you have write permissions in the application directory.
-- The application requires a display to run (it's a GUI application).
-
-![VMS Dashboard](https://raw.githubusercontent.com/johndydyyy/Visitor-Management-System/main/Screenshot%202025-12-24%20191620.png)
-
-![VMS Visitor List](https://raw.githubusercontent.com/johndydyyy/Visitor-Management-System/main/Screenshot%202025-12-24%20191652.png)
-
-![VMS Reports](https://raw.githubusercontent.com/johndydyyy/Visitor-Management-System/main/Screenshot%202025-12-24%20191704.png)
-
-
-
-
-
+### Installation
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/johndydyyy/Visitor-Management-System.git](https://github.com/johndydyyy/Visitor-Management-System.git)
+   cd Visitor-Management-System
+2. Verify Dependencies:Run the following command to ensure your environment is ready:Bashpython -c "import tkinter; import sqlite3; import datetime; import hashlib; print('All required modules are installed!')"
+3. Running the AppExecute the main application script:Bashpython vms_app.py
+4. Default CredentialsFieldValueUsernameadminPasswordadmin123Note: For security, please change the default password immediately after your first login.
